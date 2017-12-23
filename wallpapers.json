@@ -1,0 +1,74 @@
+{
+	"wallpapers": [
+		{
+			"name": "Wallpaper 1",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 1.jpg",
+			"dimensions": "960 x 1280",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 10",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 10.jpg",
+			"dimensions": "1439 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 2",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 2.jpg",
+			"dimensions": "1285 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 3",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 3.jpg",
+			"dimensions": "600 x 899",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 4",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 4.jpg",
+			"dimensions": "1280 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 5",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 5.jpg",
+			"dimensions": "1535 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 6",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 6.jpg",
+			"dimensions": "1448 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 7",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 7.jpg",
+			"dimensions": "1390 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 8",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 8.jpg",
+			"dimensions": "1535 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 9",
+			"author": "OCQ",
+			"url": "https://github.com/Pryansh/WallpapersWallpaper 9.jpg",
+			"dimensions": "1501 x 1920",
+			"copyright": "Copyright c 2011-2017 OGQ Corp., Inc. All rights reserved."
+		}
+	]
+}
