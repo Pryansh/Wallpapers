@@ -1,0 +1,65 @@
+{
+    "wallpapers":
+        [
+	    {
+		"creator": "OGQ", 
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%201.jpg",
+		"name": "Wallpaper 1"
+                --> no thumbUrl
+	    },
+	    {
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%202",
+		"name": "Wallpaper 2"
+                --> no thumbUrl
+	    },
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%203",
+		"name": "Wallpaper 3"
+                --> no thumbUrl
+	    },	
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%204",
+		"name": "Wallpaper 4"
+                --> no thumbUrl
+	    },
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%205",
+		"name": "Wallpaper 5"
+                --> no thumbUrl
+	    },
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%206",
+		"name": "Wallpaper 6"
+                --> no thumbUrl
+	    },
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%207",
+		"name": "Wallpaper 7"
+                --> no thumbUrl
+	    },
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%208",
+		"name": "Wallpaper 8"
+                --> no thumbUrl
+	    },
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%209",
+		"name": "Wallpaper 9"
+                --> no thumbUrl
+	    },
+{
+                "creator": "OGQ", --> different author name
+		"imageUrl": "https://raw.githubusercontent.com/Pryansh/Wallpapers/master/Wallpaper%2010",
+		"name": "Wallpaper 10"
+                --> no thumbUrl
+	    }	
+        ]
+}
